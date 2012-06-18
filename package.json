@@ -1,0 +1,14 @@
+{
+  "name": "node-heap-dump",
+  "author": "David Pacheco <https://github.com/davepacheco>",
+  "description": "Utilities for creating and viewing Node.JS heap dumps",
+  "version": "0.1.0",
+
+  "dependencies": {
+    "sprintf": "0.1.1"
+  },
+
+  "scripts": {
+    "preinstall": "make install"
+  }
+}
